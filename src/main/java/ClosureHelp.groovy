@@ -1,8 +1,8 @@
 /**
  * @Author fandayong
- * @Date 2021/2/3 7:14 PM
+ * @Date 2021/2/3 9:13 PM
  * @description
  */
-class Groovy1 {
+time = {
 
 }
